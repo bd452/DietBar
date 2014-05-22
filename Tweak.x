@@ -1,4 +1,4 @@
-#import <UIKit/UIKit2.h>
+//#import <UIKit/UIKit2.h>
 
 %config(generator=internal);
 
